@@ -2575,8 +2575,8 @@ window.MAPUCHE_AUDIO={
     "source": "avatar-11.m4a"
   },
   "cm-s12": {
-    "src": "audio/locuciones-verificadas-v12/lamina-12-v17.mp3",
-    "duration": 32.365714,
+    "src": "audio/locuciones-verificadas-v12/lamina-12.mp3",
+    "duration": 33.00325,
     "cues": [
       {
         "start": 0,
@@ -2600,17 +2600,17 @@ window.MAPUCHE_AUDIO={
       },
       {
         "start": 19.32,
-        "end": 24.73,
+        "end": 25.4,
         "text": "directiva formal representa todo el liderazgo local: el Longko tradicional sigue"
       },
       {
-        "start": 24.73,
-        "end": 29.05,
+        "start": 25.4,
+        "end": 29.72,
         "text": "siendo, en muchas comunidades, el actor decisivo y referente de opinión"
       },
       {
-        "start": 29.05,
-        "end": 32.333,
+        "start": 29.72,
+        "end": 33.003,
         "text": "con quien construir diálogo y confianza duradera."
       }
     ],
@@ -2821,91 +2821,91 @@ window.MAPUCHE_AUDIO={
       },
       {
         "word": "el",
-        "start": 23.29
+        "start": 23.96
       },
       {
         "word": "Longko",
-        "start": 23.43
+        "start": 24.1
       },
       {
         "word": "tradicional",
-        "start": 23.79
+        "start": 24.46
       },
       {
         "word": "sigue",
-        "start": 24.27
+        "start": 24.94
       },
       {
         "word": "siendo,",
-        "start": 24.73
+        "start": 25.4
       },
       {
         "word": "en",
-        "start": 25.13
+        "start": 25.8
       },
       {
         "word": "muchas",
-        "start": 25.45
+        "start": 26.12
       },
       {
         "word": "comunidades,",
-        "start": 25.75
+        "start": 26.42
       },
       {
         "word": "el",
-        "start": 26.41
+        "start": 27.08
       },
       {
         "word": "actor",
-        "start": 26.91
+        "start": 27.58
       },
       {
         "word": "decisivo",
-        "start": 27.13
+        "start": 27.8
       },
       {
         "word": "y",
-        "start": 27.73
+        "start": 28.4
       },
       {
         "word": "referente",
-        "start": 28.01
+        "start": 28.68
       },
       {
         "word": "de",
-        "start": 28.49
+        "start": 29.16
       },
       {
         "word": "opinión",
-        "start": 28.65
+        "start": 29.32
       },
       {
         "word": "con",
-        "start": 29.05
+        "start": 29.72
       },
       {
         "word": "quien",
-        "start": 29.43
+        "start": 30.1
       },
       {
         "word": "construir",
-        "start": 29.63
+        "start": 30.3
       },
       {
         "word": "diálogo",
-        "start": 30.13
+        "start": 30.8
       },
       {
         "word": "y",
-        "start": 30.65
+        "start": 31.32
       },
       {
         "word": "confianza",
-        "start": 30.95
+        "start": 31.62
       },
       {
         "word": "duradera.",
-        "start": 31.47
+        "start": 32.14
       }
     ],
     "status": "original-content-verified",
